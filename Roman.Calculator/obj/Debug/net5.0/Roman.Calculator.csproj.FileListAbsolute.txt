@@ -1,0 +1,16 @@
+C:\Users\Johnny\source\repos\ME_Prog\romaikalkulator-nagyjanos1\Roman.Calculator\bin\Debug\net5.0\Roman.Calculator.exe
+C:\Users\Johnny\source\repos\ME_Prog\romaikalkulator-nagyjanos1\Roman.Calculator\bin\Debug\net5.0\Roman.Calculator.deps.json
+C:\Users\Johnny\source\repos\ME_Prog\romaikalkulator-nagyjanos1\Roman.Calculator\bin\Debug\net5.0\Roman.Calculator.runtimeconfig.json
+C:\Users\Johnny\source\repos\ME_Prog\romaikalkulator-nagyjanos1\Roman.Calculator\bin\Debug\net5.0\Roman.Calculator.runtimeconfig.dev.json
+C:\Users\Johnny\source\repos\ME_Prog\romaikalkulator-nagyjanos1\Roman.Calculator\bin\Debug\net5.0\Roman.Calculator.dll
+C:\Users\Johnny\source\repos\ME_Prog\romaikalkulator-nagyjanos1\Roman.Calculator\bin\Debug\net5.0\ref\Roman.Calculator.dll
+C:\Users\Johnny\source\repos\ME_Prog\romaikalkulator-nagyjanos1\Roman.Calculator\bin\Debug\net5.0\Roman.Calculator.pdb
+C:\Users\Johnny\source\repos\ME_Prog\romaikalkulator-nagyjanos1\Roman.Calculator\obj\Debug\net5.0\Roman.Calculator.csprojAssemblyReference.cache
+C:\Users\Johnny\source\repos\ME_Prog\romaikalkulator-nagyjanos1\Roman.Calculator\obj\Debug\net5.0\Roman.Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johnny\source\repos\ME_Prog\romaikalkulator-nagyjanos1\Roman.Calculator\obj\Debug\net5.0\Roman.Calculator.AssemblyInfoInputs.cache
+C:\Users\Johnny\source\repos\ME_Prog\romaikalkulator-nagyjanos1\Roman.Calculator\obj\Debug\net5.0\Roman.Calculator.AssemblyInfo.cs
+C:\Users\Johnny\source\repos\ME_Prog\romaikalkulator-nagyjanos1\Roman.Calculator\obj\Debug\net5.0\Roman.Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Johnny\source\repos\ME_Prog\romaikalkulator-nagyjanos1\Roman.Calculator\obj\Debug\net5.0\Roman.Calculator.dll
+C:\Users\Johnny\source\repos\ME_Prog\romaikalkulator-nagyjanos1\Roman.Calculator\obj\Debug\net5.0\ref\Roman.Calculator.dll
+C:\Users\Johnny\source\repos\ME_Prog\romaikalkulator-nagyjanos1\Roman.Calculator\obj\Debug\net5.0\Roman.Calculator.pdb
+C:\Users\Johnny\source\repos\ME_Prog\romaikalkulator-nagyjanos1\Roman.Calculator\obj\Debug\net5.0\Roman.Calculator.genruntimeconfig.cache
