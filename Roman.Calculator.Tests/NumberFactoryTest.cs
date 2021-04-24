@@ -1,5 +1,4 @@
 using NUnit.Framework;
-using Roman.Calculator.Domain;
 
 namespace Roman.Calculator.Tests
 {

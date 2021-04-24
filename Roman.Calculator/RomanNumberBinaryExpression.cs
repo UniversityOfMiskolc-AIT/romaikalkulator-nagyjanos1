@@ -1,7 +1,8 @@
-﻿using System;
+﻿using Roman.Calculator.Domain;
+using System;
 using System.Linq.Expressions;
 
-namespace Roman.Calculator.Domain
+namespace Roman.Calculator
 {
 
     public class RomanNumberBinaryExpression : RomanNumber

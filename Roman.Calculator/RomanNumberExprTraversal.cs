@@ -1,4 +1,4 @@
-﻿namespace Roman.Calculator.Domain
+﻿namespace Roman.Calculator
 {
     public class RomanNumberExprTraversal
     {

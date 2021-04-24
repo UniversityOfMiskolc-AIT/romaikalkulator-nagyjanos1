@@ -1,8 +1,9 @@
+using Roman.Calculator.Domain;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Roman.Calculator.Domain
+namespace Roman.Calculator
 {
     public class NumberFactory
     {

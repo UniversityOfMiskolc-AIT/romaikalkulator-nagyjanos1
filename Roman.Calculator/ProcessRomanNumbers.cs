@@ -1,14 +1,15 @@
-﻿using System;
+﻿using Roman.Calculator.Domain;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Linq.Expressions;
 using System.Text;
 
-namespace Roman.Calculator.Domain
+namespace Roman.Calculator
 {
     public class ProcessRomanNumbers 
     {
-        private static readonly Dictionary<char, Expression<Func<RomanNumber, RomanNumber, RomanNumber>>> operations = new Dictionary<char, Expression<Func<RomanNumber, RomanNumber, RomanNumber>>>
+        private static readonly Dictionary<char, Expression<Func<RomanNumber, RomanNumber, RomanNumber>>> operations = new()
         {
             { '+', (a, b) => a + b },
             { '-', (a, b) => a - b },
